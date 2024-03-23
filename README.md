@@ -1,2 +1,3 @@
 # ORPO
-ORPO: Monolithic Preference Optimization without Reference Model 
+这是对 ORPO: Monolithic Preference Optimization without Reference Model 算法的实践脚本，具体介绍可参看：
+
